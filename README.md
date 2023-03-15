@@ -5,9 +5,9 @@
     This repository still being written and updated^^
   </p>
 </div>
-<div align="center">г
+<div class="" align="center">г
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
-</div>
-:man_technologist: About Me :
+  :man_technologist: About Me :
 
 I'm just learning to program
+</div>
